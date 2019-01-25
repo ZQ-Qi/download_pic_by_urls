@@ -1,0 +1,12 @@
+.
+├── get_pic.py
+└── picture_get_by_url
+    ├── pic_download
+    │   └── urls_drawings
+    │       ├── 005rlch.jpg
+    │       ├── ZZUDff2.jpg
+    │       ├── ZZWUcH8.jpg
+    │       └── zzyh.jpg
+    └── raw_data
+        ├── urls_drawings.txt
+        └── urls_porn.txt
